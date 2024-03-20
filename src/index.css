@@ -1,3 +1,6 @@
 .body{
     background-color: #2191F4;
 }
+.container{
+    container: sm-4, md-8, xl-12;
+}
